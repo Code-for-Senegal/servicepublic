@@ -1,0 +1,46 @@
+.footer-link {
+    padding: 1em 0;
+    background-color: #262a33;
+    text-align: center;
+}
+
+.footer-link ul {
+    padding-left: 0;
+    list-style: none;
+    margin: 0;
+}
+
+@media (min-width: 37em){
+.footer-link li {
+    display: inline-block;
+}}
+
+@media (min-width: 20em){
+.footer-link li {
+    display: block;
+}}
+
+.footer-link li {
+    display: inline-block;
+}
+
+@media (min-width: 37em){
+.footer-link li::before {
+    content: "-";
+    margin: 0 .4em;
+}}
+
+@media (min-width: 20em){
+.footer-link li::before {
+    content: none;
+    margin-right: 0;
+}}
+
+.footer-link li::before {
+    content: "-";
+    margin-right: .5em;
+}
+
+.icon-external-link:before {
+    content: "\e60c";
+}

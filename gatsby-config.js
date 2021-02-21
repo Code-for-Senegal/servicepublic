@@ -6,5 +6,24 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [`gatsby-plugin-sass`],
+  siteMetadata: {
+    title: `Servicepublic`,
+    description: `Clone servicepublic.gouv.sn data`,
+    author: `https://github.com/senegalouvert`,
+  },
+  plugins: [
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Roboto`,
+            variants: [`300`, `400`]
+          },
+        ],
+      },
+    }
+  ],
 }

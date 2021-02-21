@@ -1,0 +1,18 @@
+- title: Vie associative
+  path: '/particuliers/vie-associative'
+  icon: icon-vie-associative
+  subtopics:
+    - title: Création, déclaration et dissolution
+      path: '/particuliers/vie-associative/creation-declaration-et-dissolution'
+    - title: Reconnaissance, fonctionnement et responsabilités
+      path: '/particuliers/vie-associative/reconnaissance-fonctionnement-et-responsabilites'
+    - title: Volontariat, vacatariat, stage et bénévolat
+      path: '/particuliers/vie-associative/volontariat-vacatariat-stage-et-benevolat'
+    - title: Organisations professionnelles
+      path: '/particuliers/vie-associative/organisations-professionnelles'
+    - title: Organisations non gouvernementales (ONG)
+      path: '/particuliers/vie-associative/organisations-non-gouvernementales-ong'
+    - title: Partis politiques
+      path: '/particuliers/vie-associative/partis-politiques'
+    - title: Fondations
+      path: '/particuliers/vie-associative/fondations'

@@ -1,0 +1,190 @@
+title: Particuliers
+topics:
+  - title: Argent
+    path: '/particuliers/argent'
+    icon: icon-argent
+    subtopics:
+      - title: Impôts, taxes et douanes
+        path: '/particuliers/argent/impots-taxes-et-douanes'
+      - title: Assurances, achats, abonnements et factures
+        path: '/particuliers/argent/assurances-achats-abonnements-et-factures'
+      - title: Banque, crédit et épargne
+        path: '/particuliers/argent/banque-credit-et-epargne'
+      - title: Héritage, hérédité et tutelle
+        path: '/particuliers/argent/heritage-heredite-et-tutelle'
+      - title: Autres
+        path: '/particuliers/argent/autres'
+  - title: Citoyenneté, justice et sécurité
+    path: '/particuliers/citoyennete-justice-et-securite'
+    icon: icon-citoyennete-justice-et-securite
+    subtopics:
+      - title: Etat civil
+        path: '/particuliers/citoyennete-justice-et-securite/etat-civil'
+      - title: Sécurité, assistance et urgences
+        path: '/particuliers/citoyennete-justice-et-securite/securite-assistance-et-urgences'
+      - title: Nationalité et identité
+        path: '/particuliers/citoyennete-justice-et-securite/nationalite-et-identite'
+      - title: Elections et carte d'électeur
+        path: '/particuliers/citoyennete-justice-et-securite/elections-et-carte-delecteur'
+      - title: Contentieux
+        path: '/particuliers/citoyennete-justice-et-securite/contentieux'
+      - title: Arrestation et emprisonnement
+        path: '/particuliers/citoyennete-justice-et-securite/arrestation-et-emprisonnement'
+      - title: Documents judiciaires
+        path: '/particuliers/citoyennete-justice-et-securite/documents-judiciaires'
+      - title: Documents militaires
+        path: '/particuliers/citoyennete-justice-et-securite/documents-militaires'
+      - title: Voyages et séjours à l'étranger
+        path: '/particuliers/citoyennete-justice-et-securite/voyages-et-sejours-a-letranger'
+      - title: Entrée, séjour et travail des étrangers
+        path: '/particuliers/citoyennete-justice-et-securite/entree-sejour-et-travail-des-etrangers'
+      - title: Service civique et service militaire
+        path: '/particuliers/citoyennete-justice-et-securite/service-civique-et-service-militaire'
+      - title: Volontariat, vacatariat, stage et bénévolat
+        path: '/particuliers/citoyennete-justice-et-securite/volontariat-vacatariat-stage-et-benevolat'
+      - title: Droits de la femme
+        path: '/particuliers/citoyennete-justice-et-securite/droits-de-la-femme'
+      - title: Hygiène publique et sécurité alimentaire
+        path: '/particuliers/citoyennete-justice-et-securite/hygiene-publique-et-securite-alimentaire'
+      - title: Armes et chasse
+        path: '/particuliers/citoyennete-justice-et-securite/armes-et-chasse'
+  - title: Culture et communication
+    path: '/particuliers/culture-et-communication'
+    icon: icon-culture-et-communication
+    subtopics:
+      - title: Arts, décorations et expositions
+        path: '/particuliers/culture-et-communication/arts-decorations-et-expositions'
+      - title: Livres, lecture et bibliothèques
+        path: '/particuliers/culture-et-communication/livres-lecture-et-bibliotheques'
+      - title: Cinéma, audiovisuel et photographies
+        path: '/particuliers/culture-et-communication/cinema-audiovisuel-et-photographies'
+      - title: Théâtre, danse et musique
+        path: '/particuliers/culture-et-communication/theatre-danse-et-musique'
+      - title: Musées, archéologie et archives
+        path: '/particuliers/culture-et-communication/musees-archeologie-et-archives'
+      - title: Patrimoine, architecture et monuments
+        path: '/particuliers/culture-et-communication/patrimoine-architecture-et-monuments'
+      - title: Communication, presse et édition
+        path: '/particuliers/culture-et-communication/communication-presse-et-edition'
+      - title: Autres
+        path: '/particuliers/culture-et-communication/autres'
+  - title: Education et formation
+    path: '/particuliers/education-et-formation'
+    icon: icon-education-et-formation
+    subtopics:
+      - title: Enseignement technique et professionnel
+        path: '/particuliers/education-et-formation/enseignement-technique-et-professionnel'
+      - title: Enseignement préscolaire et primaire
+        path: '/particuliers/education-et-formation/enseignement-prescolaire-et-primaire'
+      - title: Enseignement moyen et secondaire
+        path: '/particuliers/education-et-formation/enseignement-moyen-et-secondaire'
+      - title: Enseignement supérieur
+        path: '/particuliers/education-et-formation/enseignement-superieur'
+      - title: Formation continue
+        path: '/particuliers/education-et-formation/formation-continue'
+      - title: Enseignement privé et en langue arabe
+        path: '/particuliers/education-et-formation/enseignement-prive-et-en-langue-arabe'
+      - title: Scolarité des malades et des handicapés
+        path: '/particuliers/education-et-formation/scolarite-des-malades-et-des-handicapes'
+      - title: Bourses et aides
+        path: '/particuliers/education-et-formation/bourses-et-aides'
+      - title: Etudes à l'étranger
+        path: '/particuliers/education-et-formation/etudes-a-letranger'
+      - title: Examens, concours et diplômes
+        path: '/particuliers/education-et-formation/examens-concours-et-diplomes'
+      - title: Autres
+        path: '/particuliers/education-et-formation/autres'
+  - title: Emploi et travail
+    path: '/particuliers/emploi-et-travail'
+    icon: icon-emploi-et-travail
+    subtopics:
+      - title: Administration
+        path: '/particuliers/emploi-et-travail/administration'
+      - title: Recherche d'emploi
+        path: '/particuliers/emploi-et-travail/recherche-demploi'
+      - title: Volontariat, vacatariat, stage et bénévolat
+        path: '/particuliers/emploi-et-travail/volontariat-vacatariat-stage-et-benevolat'
+      - title: Service civique et service militaire
+        path: '/particuliers/emploi-et-travail/service-civique-et-service-militaire'
+      - title: Travail à l'étranger
+        path: '/particuliers/emploi-et-travail/travail-a-letranger'
+      - title: Entrée, séjour et travail des étrangers
+        path: '/particuliers/emploi-et-travail/entree-sejour-et-travail-des-etrangers'
+      - title: Droit des salariés dans l'entreprise
+        path: '/particuliers/emploi-et-travail/droit-des-salaries-dans-lentreprise'
+      - title: Santé, hygiène et sécurité du travail
+        path: '/particuliers/emploi-et-travail/sante-hygiene-et-securite-du-travail'
+      - title: Formation continue
+        path: '/particuliers/emploi-et-travail/formation-continue'
+      - title: Autres
+        path: '/particuliers/emploi-et-travail/autres'
+  - title: Famille, étapes de la vie et vie sociale
+    path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale'
+    icon: icon-famille-etapes-de-la-vie-et-vie-sociale
+    subtopics:
+      - title: Etat civil
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/etat-civil'
+      - title: Décès
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/deces'
+      - title: Nationalité et identité
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/nationalite-et-identite'
+      - title: Maternité  et naissance
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/maternite-et-naissance'
+      - title: Orphelins et adoption
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/orphelins-et-adoption'
+      - title: Emancipation et majorité
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/emancipation-et-majorite'
+      - title: Droits et devoirs des parents
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/droits-et-devoirs-des-parents'
+      - title: Mariage, divorce et vie commune
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/mariage-divorce-et-vie-commune'
+      - title: Héritage, hérédité et tutelle
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/heritage-heredite-et-tutelle'
+      - title: Droits de la femme
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/droits-de-la-femme'
+      - title: Droits de l'enfant
+        path: '/particuliers/famille-etapes-de-la-vie-et-vie-sociale/droits-de-lenfant'
+  - title: Habitat et logement
+    path: '/particuliers/habitat-et-logement'
+    icon: icon-habitat-et-logement
+    subtopics:
+      - title: Déménagement et installation
+        path: '/particuliers/habitat-et-logement/demenagement-et-installation'
+      - title: Questions foncières
+        path: '/particuliers/habitat-et-logement/questions-foncieres'
+      - title: Location, achat et occupation d'un bien immobilier
+        path: '/particuliers/habitat-et-logement/location-achat-et-occupation-dun-bien-immobilier'
+      - title: Construction, modification et démolition
+        path: '/particuliers/habitat-et-logement/construction-modification-et-demolition'
+      - title: Bruit, pollution et risques naturels
+        path: '/particuliers/habitat-et-logement/bruit-pollution-et-risques-naturels'
+      - title: Justificatifs de domicile
+        path: '/particuliers/habitat-et-logement/justificatifs-de-domicile'
+      - title: Autres
+        path: '/particuliers/habitat-et-logement/autres'
+  - title: Papiers
+    path: '/particuliers/papiers'
+    icon: icon-papiers
+    subtopics:
+      - title: Etat civil
+        path: '/particuliers/papiers/etat-civil'
+      - title: Nationalité et identité
+        path: '/particuliers/papiers/nationalite-et-identite'
+      - title: Légalisation, authentification, certification conforme et enregistrement
+        path: '/particuliers/papiers/legalisation-authentification-certification-conforme-et-enregistrement'
+      - title: Documents judiciaires
+        path: '/particuliers/papiers/documents-judiciaires'
+      - title: Elections et carte d'électeur
+        path: '/particuliers/papiers/elections-et-carte-delecteur'
+      - title: Entrée, séjour et travail des étrangers
+        path: '/particuliers/papiers/entree-sejour-et-travail-des-etrangers'
+      - title: Justificatifs de domicile
+        path: '/particuliers/papiers/justificatifs-de-domicile'
+      - title: Documents médicaux
+        path: '/particuliers/papiers/documents-medicaux'
+      - title: Examens, concours et diplômes
+        path: '/particuliers/papiers/examens-concours-et-diplomes'
+      - title: Permis de conduire et papiers des véhicules
+        path: '/particuliers/papiers/permis-de-conduire-et-papiers-des-vehicules'
+      - title: Autres
+        path: '/particuliers/papiers/autres'

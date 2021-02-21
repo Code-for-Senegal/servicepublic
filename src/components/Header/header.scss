@@ -1,0 +1,33 @@
+.banner {
+    position: relative;
+    font-family: "roboto_light",Arial,sans-serif;
+}
+
+.nav-top {
+    font-size: 1em;
+    background: #ececec;
+}
+
+@media (min-width: 70em){
+.nav-top .container {
+    margin: 0 auto;
+}}
+@media (min-width: 25em){
+.nav-top .container {
+    margin: 0 20px;
+}
+.nav-top .container {
+    margin: 0 auto;
+}}
+
+@media (max-width: 47.99em){
+.nav-top a span {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}}

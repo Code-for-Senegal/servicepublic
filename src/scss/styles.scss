@@ -1,7 +1,161 @@
 body {
-    font-family: "roboto_regular",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: .875em;
     line-height: 1.5;
     color: #414856;
     background-color: #fff;
+}
+
+body {
+    margin: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+
+#outer-wrap {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background-color: #414856;
+}
+
+#inner-wrap {
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+}
+
+.container {
+    margin: 0 auto;
+}
+.container:before, .container:after {
+    content: " ";
+    display: table;
+}
+
+@media (min-width: 25em){
+.container {
+    margin: 0 20px;
+}}
+
+@media (min-width: 70em){
+.container {
+    max-width: 75.62em;
+    margin-left: auto;
+    margin-right: auto;
+}}
+
+@media (min-width: 80em){
+.container {
+    max-width: 87.62em;
+    margin-left: auto;
+    margin-right: auto;
+}}
+
+img {
+    vertical-align: middle;
+}
+
+img {
+    border: 0;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: .75em;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+a:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -3px;
+}
+
+a {
+    color: #414856;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #0b6ba8;
+    text-decoration: underline;
+}
+
+.icon {
+    font-family: 'fonticon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon::before {
+    display: inline-block;
+}
+
+p {
+    line-height: 1.5;
+    margin-bottom: 1.33em;
+}
+
+p {
+    margin: 0 0 .75em;
+}
+
+.main {
+    min-height: 25em;
+    margin-bottom: 2em;
+}
+
+@media (min-width: 48em){
+.main-container {
+    padding-top: 3em;
+}}
+
+.main-container {
+    padding-top: 1em;
+    position: relative;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+h3, .h3 {
+    margin-bottom: .9em;
+    color: #0b6ba8;
+}
+h3, .h3 {
+    font-size: 1.71429em;
+    font-family: "roboto_regular",Arial,sans-serif;
+    font-weight: 400;
+}
+h1, h2, h3, h4, .bloc-arrow h2, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    line-height: 1.1;
+    color: inherit;
+}
+
+.blank {
+    font-family: AdobeBlank;
 }

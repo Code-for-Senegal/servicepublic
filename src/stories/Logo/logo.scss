@@ -1,0 +1,22 @@
+.container-logo {
+    padding: 1.1em 0 .9em;
+}
+
+.logo {
+    font-size: 2.85714em;
+    float: left;
+    position: relative;
+}
+
+.logo a::after {
+    position: absolute;
+    content: "";
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.logo .img-sce-public {
+    margin-left: .5em;
+}
