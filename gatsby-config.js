@@ -14,16 +14,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Roboto`,
-            variants: [`300`, `400`]
-          },
-        ],
-      },
-    }
+    `gatsby-plugin-preload-fonts`
   ],
 }
