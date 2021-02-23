@@ -1,0 +1,3 @@
+[submodule "src/content/servicepublic"]
+	path = src/content/servicepublic
+	url = https://github.com/senegalouvert/servicepublic
